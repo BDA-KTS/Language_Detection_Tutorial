@@ -31,6 +31,6 @@ This tutorial is designed for:
 pip install langdetect pandas matplotlib
 ```
 
-[](language-detection.png)
+![](language-detection.png)
 
 Want to know more, switch to the full tutorial at [Language Detection Tutorial.ipynb](Language-Detection-Tutorial.ipynb)
