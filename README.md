@@ -33,4 +33,4 @@ pip install langdetect pandas matplotlib
 
 [](language-detection.png)
 
-To know more how its done, visit [Language Detection Tutorial.ipynb](Language Detection Tutorial.ipynb)
+Want to know more, switch to the full tutorial at [Language Detection Tutorial.ipynb](Language-Detection-Tutorial.ipynb)
