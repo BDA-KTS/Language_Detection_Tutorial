@@ -1,6 +1,6 @@
 # Detecting Languages with Python: A Step-by-Step Guide
 
-Language detection is a key tool in text analytics, enabling researchers to classify documents, messages, and other textual data into their respective languages. With the rise of social media and globalization, detecting languages in multilingual datasets is essential for insights in fields like social sciences, marketing, and natural language processing (NLP). In this tutorial, we will explore how to perform language detection using Python and the langdetect library in a Jupyter Notebook environment.
+Language detection is a key tool in text analytics, enabling researchers to classify documents, messages, and other textual data into their respective languages. With the rise of social media and globalization, detecting languages in multilingual datasets is essential for insights in fields like social sciences, marketing, and natural language processing (NLP). In this tutorial, we will explore how to perform language detection using Python and the langdetect library in a Jupyter Notebook environment ![](Language-Detection-Tutorial.ipynb).
 
 ## Learning Objectives
 By the end of this tutorial, you will be able to:
