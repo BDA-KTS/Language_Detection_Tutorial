@@ -1,6 +1,6 @@
 # Detecting Languages with Python: A Step-by-Step Guide
 
-Language detection is a key tool in text analytics, enabling researchers to classify documents, messages, and other textual data into their respective languages. With the rise of social media and globalization, detecting languages in multilingual datasets is essential for insights in fields like social sciences, marketing, and natural language processing (NLP). In this tutorial, we will explore how to perform language detection using Python and the langdetect library in a Jupyter Notebook environment [Language-Detection-Tutorial.ipynb](Language-Detection-Tutorial.ipynb).
+Language detection is a crucial tool in text analytics, enabling researchers to categorize documents, messages, and other textual data by their respective languages. With the rise of social media and globalization, detecting languages in multilingual datasets is crucial for gaining insights in fields such as social sciences, marketing, and natural language processing (NLP). In this tutorial, we will explore how to perform language detection using Python and the langdetect library in a Jupyter Notebook environment [Language-Detection-Tutorial.ipynb](Language-Detection-Tutorial.ipynb).
 
 ## Learning Objectives
 By the end of this tutorial, you will be able to:
@@ -13,7 +13,7 @@ By the end of this tutorial, you will be able to:
 ## Target Audience
 This tutorial is designed for:
 
-- Researchers in social sciences and linguistics interested in multilingual data analysis.
+- Researchers in social sciences and linguistics are interested in multilingual data analysis.
 - Students or professionals beginning their journey in NLP.
 - Data analysts working with diverse language datasets.
 - Anyone curious about language detection tools in Python.
@@ -21,19 +21,23 @@ This tutorial is designed for:
 ## Duration
 1 Hour
 
-## Social Science Use Cases
+## Use Cases
 **Survey Analysis:** Determine the primary languages in multilingual survey responses.
 
 **Media Studies:** Analyze the distribution of languages in social media posts or news articles.
 
-## Setting Up the Computational Environment
+## Environment Setup
+
+Execute the following command to install the required packages for this tutorial. 
+
+
 ```
-pip install langdetect pandas matplotlib
+pip install -r requirements.txt
 ```
 
 ![](language-detection.png)
 
-Want to know more, switch to the full tutorial at [Language Detection Tutorial.ipynb](Language-Detection-Tutorial.ipynb)
+Want to know more? Switch to the full tutorial at [Language Detection Tutorial.ipynb](Language-Detection-Tutorial.ipynb)
 ## Technical Details
 
 This tutorial leverages the [`langdetect`](https://github.com/Mimino666/langdetect) library, a port of Google's language-detection library, to identify the language of given text samples. The code is organized in a Jupyter Notebook for interactive exploration and reproducibility.
