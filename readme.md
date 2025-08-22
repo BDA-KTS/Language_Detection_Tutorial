@@ -15,7 +15,7 @@ By completing this tutorial, you will:
 - **Evaluate detected languages** in datasets and real-world scenarios
 
 
-## Audience
+## Target Audience
 
 This guide is designed for:
 
@@ -30,7 +30,7 @@ This guide is designed for:
 **Approximately 1 hour**
 
 
-## Social Science Use Cases
+## Use Cases
 
 - **Survey Analysis:** Identify primary languages in multilingual survey responses
 - **Media Studies:** Analyze language distribution in social media or news articles
@@ -66,7 +66,7 @@ All code is provided in a **Jupyter Notebook** for interactive learning and easy
     Summarize language distributions with matplotlib for instant insights
 
 
-## 📝 **Key Takeaways**
+## Key Takeaways
 
 - **Efficiently process and analyze multilingual data** with pandas
 - **Visualize language distributions** using matplotlib
@@ -74,7 +74,6 @@ All code is provided in a **Jupyter Notebook** for interactive learning and easy
 - **Understanding language distribution** unlocks insights for research, analytics, and NLP
 
 
-## 📧 **Contact**
+## Contact
 
-For questions or feedback:  
-**susmita.gangopadhyay@gesis.org**
+For questions or feedback:  <susmita.gangopadhyay@gesis.org>
